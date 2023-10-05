@@ -3,3 +3,4 @@
 # @FILE_NAME: text
 # @TIME: 2023/10/5 15:06
 
+from PyQt6 import QtWidgets
